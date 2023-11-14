@@ -15,13 +15,13 @@ Follow these instructions to set up and run the chat app on your local machine.
 ## Installation
 
 ```bash
-    git clone https://github.com/your-username/chat-app-socketio.git
-    cd chat-app-socketio
+    git clone https://github.com/SARANKUMAAR02/ChatApp.git
+    cd ChatApp
 
-    cd client
+    cd frontend
     npm install
 
-    cd ../server
+    cd ../backend
     npm install
 ```
 
